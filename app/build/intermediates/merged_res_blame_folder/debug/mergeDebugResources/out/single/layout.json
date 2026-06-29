@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.vibecalculator.app-mergeDebugResources-30:/layout/dialog_vibe_result.xml",
+        "source": "com.example.vibecalculator.app-main-33:/layout/dialog_vibe_result.xml"
+    },
+    {
+        "merged": "com.example.vibecalculator.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.vibecalculator.app-main-33:/layout/activity_main.xml"
+    }
+]
